@@ -1,13 +1,13 @@
 // Configuración inicial
 const ubicaciones = {
-  "Estación Naranjal": [-12.024, -77.050],
-  "Estación Angamos": [-12.119, -77.030],
+  "Universidad Nacional de Ingenieria": [-12.024, -77.050],
+  "Saga Falabella": [-12.119, -77.030],
   "Estación Javier Prado": [-12.092, -77.035],
-  "Plaza Norte": [-12.013, -77.058],
-  "Estación Matellini": [-12.155, -77.022],
-  "Estación Gamarra": [-12.067, -77.004],
-  "Centro Cívico": [-12.045, -77.028],
-  "Estación Benavides": [-12.129, -77.013],
+  "Urbanizacion Los Jardines": [-12.013, -77.058],
+  "Jiron Comandante Montero Rosas": [-12.155, -77.022],
+  "Cerro San Cosme": [-12.067, -77.004],
+  "Casa de la Literatura Peruana": [-12.045, -77.028],
+  "El Rosedal": [-12.129, -77.013],
 };
 
 // Inicializa el mapa
